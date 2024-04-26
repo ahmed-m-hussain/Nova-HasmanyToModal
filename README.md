@@ -10,9 +10,9 @@ composer require ahmed-hussain/hasmany-to-modal
 <p>
 To create a modal for creating or viewing related HasMany records without leaving the index page
 </p>
-<img src='https://raw.githubusercontent.com/ahmed-hussain/hasmany-to-modal/master/HasmanyToModal.png'  alt="index">
+<img src='https://github.com/ahmed-m-hussain/Nova-HasmanyToModal/blob/main/HasmanyToModal.png?raw=true'  alt="index">
 <p>Create via Modal don't need leave index to create or view HasMany </p>
-<img src='https://raw.githubusercontent.com/ahmed-hussain/hasmany-to-modal/master/HasmanyToModalCreate.png'  alt="create">
+<img src='https://github.com/ahmed-m-hussain/Nova-HasmanyToModal/blob/main/HasmanyToModalCreate.png?raw=true'  alt="create">
 
 ### Usage
 ```php
