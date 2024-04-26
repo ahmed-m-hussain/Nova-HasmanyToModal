@@ -1,3 +1,9 @@
+
+[![GitHub issues](https://img.shields.io/github/issues/ahmed-m-hussain/Nova-HasmanyToModal)](https://github.com/ahmed-m-hussain/Nova-HasmanyToModal/issues)
+[![GitHub forks](https://img.shields.io/github/forks/ahmed-m-hussain/Nova-HasmanyToModal)](https://github.com/ahmed-m-hussain/Nova-HasmanyToModal/network)
+[![GitHub stars](https://img.shields.io/github/stars/ahmed-m-hussain/Nova-HasmanyToModal)](https://github.com/ahmed-m-hussain/Nova-HasmanyToModal/stargazers)
+[![GitHub license](https://img.shields.io/github/license/ahmed-m-hussain/Nova-HasmanyToModal)](https://github.com/ahmed-m-hussain/Nova-HasmanyToModal/blob/master/LICENSE)
+
 # Nova-HasmanyToModal
 # Nova 4 Support
 
