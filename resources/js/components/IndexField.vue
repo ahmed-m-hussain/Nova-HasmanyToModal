@@ -14,7 +14,7 @@
 
         <Modal
             :show="showModal"
-            @close-via-escape="$emit('close')"
+            @close-via-escape="handleClose"
             role="alertdialog"
             :size="field.modalSize"
             :use-focus-trap="false"
@@ -118,7 +118,8 @@ export default {
         },
 
         handleClose() {
-
+            Nova.$emit('refresh-resources')
+            Nova.$emit('close')
             this.showModal = false;
         },
 
