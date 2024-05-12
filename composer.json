@@ -1,13 +1,23 @@
 {
     "name": "ahmed-hussain/hasmany-to-modal",
-    "description": "A Laravel Nova field.",
+    "description": "A Laravel Nova field. To create a modal for creating or viewing related HasMany records without leaving the index page",
     "keywords": [
         "laravel",
-        "nova"
+        "nova",
+        "hasmany",
+        "modal"
+    ],
+    "authors": [
+        {
+            "name": "Ahmed Hussain",
+            "email": "ahmed@ahmed-hussain.com",
+            "role": "Author"
+        }
     ],
     "license": "MIT",
     "require": {
-        "php": "^7.3|^8.0"
+        "php": "^7.3|^8.0",
+        "laravel/nova": "^4.0"
     },
     "autoload": {
         "psr-4": {
