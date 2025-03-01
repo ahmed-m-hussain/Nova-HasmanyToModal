@@ -181,18 +181,6 @@ class HasmanyToModal extends Field implements RelatableField
     }
 
 
-    /**
-     * Resolve the field's value.
-     *
-     * @param mixed $resource
-     * @param string|null $attribute
-     * @return void
-     */
-    public function resolve($resource, $attribute = null)
-    {
-        //
-    }
-
 
     /**
      * Make current field behaves as panel.
